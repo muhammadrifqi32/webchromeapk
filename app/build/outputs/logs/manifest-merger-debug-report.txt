@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/21f73ed1a1e3d54482292b96d8f7c09b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07de4dd4ed3aa4fa345fc792093408dc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3239f176bfda2c65b277ef2789d2d585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fa0e614826aecf43fd1d7cf046b311ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/197b9b9ec81d342ef17f58f3471d2127/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b09578984f3863f8d307d0bcbba43408/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/38b91208a92768879e93054b18dcf672/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4e2279b2a72938a8a355aaf4993bab6d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/09f1206faa334c26f3dc6cacbef46b41/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e86530a5eb8ec5db4e529deda2b3294c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ddfcfc1a081312d76ee46eccd9d93c95/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d729f0a9aff65b056e567f7650d1f07b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:7:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:9:22-77
+application
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07de4dd4ed3aa4fa345fc792093408dc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07de4dd4ed3aa4fa345fc792093408dc/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.teknikkomputer.admintbs.MainActivity
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/21f73ed1a1e3d54482292b96d8f7c09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/21f73ed1a1e3d54482292b96d8f7c09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07de4dd4ed3aa4fa345fc792093408dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07de4dd4ed3aa4fa345fc792093408dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3239f176bfda2c65b277ef2789d2d585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3239f176bfda2c65b277ef2789d2d585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fa0e614826aecf43fd1d7cf046b311ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fa0e614826aecf43fd1d7cf046b311ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/197b9b9ec81d342ef17f58f3471d2127/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/197b9b9ec81d342ef17f58f3471d2127/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b09578984f3863f8d307d0bcbba43408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b09578984f3863f8d307d0bcbba43408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/38b91208a92768879e93054b18dcf672/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/38b91208a92768879e93054b18dcf672/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4e2279b2a72938a8a355aaf4993bab6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4e2279b2a72938a8a355aaf4993bab6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/09f1206faa334c26f3dc6cacbef46b41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/09f1206faa334c26f3dc6cacbef46b41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e86530a5eb8ec5db4e529deda2b3294c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e86530a5eb8ec5db4e529deda2b3294c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ddfcfc1a081312d76ee46eccd9d93c95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ddfcfc1a081312d76ee46eccd9d93c95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d729f0a9aff65b056e567f7650d1f07b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/imac-11/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d729f0a9aff65b056e567f7650d1f07b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac-11/Documents/fiqri/app/src/main/AndroidManifest.xml
